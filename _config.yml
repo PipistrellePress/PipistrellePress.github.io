@@ -1,4 +1,8 @@
-
+# External gems
+plugins:
+#  - jekyll-archives # Sorry, not GitHub pages friendly!
+  - jekyll-sitemap
+  
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
