@@ -30,7 +30,7 @@ avatar: "/img/avatar-icon.png"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#000099"
-navbar-text-col: "#404040"
+navbar-text-col: "#FFFFFF"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#000099"
@@ -61,19 +61,9 @@ social-network-links:
   email: "pipistrelle.press@gmail.com"
   facebook: daattali
   twitter: twitter.com/PipistrelleLit
-#  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+
 
 # Select which share links to show in posts
 share-links-active:
@@ -103,16 +93,6 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 #  site_id: "9"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
-
-# --- Comments --- #
-
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
-# If you want to use just-comments fill with the API Key
-#just-comments: "ABCD-EFGH-IJKL"
-
-# To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
 
 # Staticman support
 staticman:
