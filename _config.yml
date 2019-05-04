@@ -13,11 +13,14 @@ baseurl: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
-# Name of website
-	Pipistrelle Press
-
-# Short description of your site
-_High-flying wild tales_
+# Site settings
+title: "Pipistrelle Press"
+subtitle: "High-Flying Wild Tales"
+email: "Pipistrelle.Press@gmail.com"
+name:  "Cat + Tabi"
+description: "Small Fiction for Small Humans"
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "pipistrellepress.github.io" # the base hostname & protocol for your site
 
 # --- Navigation bar options --- #
 
